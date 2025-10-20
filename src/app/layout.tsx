@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "FlowMaster - Business Automation Platform",
+  description: "Transform complex operational workflows into simple, visual processes",
 };
 
 export default function RootLayout({
